@@ -14,7 +14,7 @@ Zero dependencies. Perfect for frontend TypeScript/React apps.
 ## Install
 
 ```bash
-npm install aes-utils-advanced
+npm install aes-utils-zero
 ```
 
 ## Usage
