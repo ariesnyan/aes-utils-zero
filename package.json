@@ -1,13 +1,12 @@
 {
   "name": "aes-utils-zero",
   "version": "1.0.0",
-  "description": "AES-GCM encryption utility with Web Crypto API and zero dependencies",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "description": "AES-GCM encryption with passphrase using Web Crypto API and zero dependencies",
+  "main": "dist/aes-utils.js",
+  "types": "dist/aes-utils.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["aes", "encryption", "crypto", "typescript", "web-crypto"],
   "author": "Aries Nyan",
   "license": "MIT",
   "repository": {
