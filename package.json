@@ -9,5 +9,9 @@
   },
   "keywords": ["aes", "encryption", "crypto", "typescript", "web-crypto"],
   "author": "Aries Nyan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariesnyan/aes-utils-zero"
+  }
 }
