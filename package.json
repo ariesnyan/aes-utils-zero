@@ -1,6 +1,6 @@
 {
   "name": "aes-utils-zero",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "AES-GCM encryption with passphrase using Web Crypto API and zero dependencies",
   "main": "dist/aes-utils.js",
   "types": "dist/aes-utils.d.ts",
